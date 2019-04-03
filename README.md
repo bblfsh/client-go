@@ -1,5 +1,7 @@
 # client-go [![GoDoc](https://godoc.org/gopkg.in/bblfsh/client-go.v3?status.svg)](https://godoc.org/gopkg.in/bblfsh/client-go.v3) [![Build Status](https://travis-ci.org/bblfsh/client-go.svg?branch=master)](https://travis-ci.org/bblfsh/client-go) [![Build status](https://ci.appveyor.com/api/projects/status/github/bblfsh/client-go?svg=true)](https://ci.appveyor.com/project/mcuadros/client-go) [![codecov](https://codecov.io/gh/bblfsh/client-go/branch/master/graph/badge.svg)](https://codecov.io/gh/bblfsh/client-go)
 
+**DEPRECATED:** use Go module compatible [go-client](https://github.com/bblfsh/go-client) instead.
+
 [Babelfish](https://doc.bblf.sh) Go client library provides functionality to both
 connecting to the Babelfish server for parsing code
 (obtaining an [UAST](https://doc.bblf.sh/uast/specification.html) as a result)
